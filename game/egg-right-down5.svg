@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2.7716148mm"
+   height="2.0257261mm"
+   viewBox="0 0 2.7716148 2.025726"
+   version="1.1"
+   id="svg19158"
+   sodipodi:docname="egg-right-down5.svg"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19160"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="7.8312671"
+     inkscape:cx="-34.796412"
+     inkscape:cy="-11.683933"
+     inkscape:window-width="1920"
+     inkscape:window-height="966"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs19155" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2.8193985,-66.889691)">
+    <path
+       d="m -2.0277149,66.889752 c -0.2059278,0.0024 -0.282493,0.06339 -0.4935114,0.274402 -0.2503223,0.250323 -0.2981722,0.357566 -0.2981722,0.668692 0,0.443296 0.1565963,0.691232 0.5767097,0.913122 0.2347092,0.123968 0.4870053,0.16618 1.0169922,0.168984 0.67399959,0.0036 0.71631969,-0.0078 0.96118089,-0.252698 0.2016655,-0.201702 0.2446312,-0.302178 0.2015385,-0.473874 -0.1517412,-0.604575 -0.97417729,-1.224002 -1.70584019,-1.284676 -0.1071325,-0.0089 -0.1902566,-0.01474 -0.2588975,-0.01394 z m 0.1452113,0.414446 c 0.274574,-0.02858 0.649568,0.06947 0.91105569,0.258898 0.4141099,0.299979 0.5263303,0.609338 0.3079909,0.850593 -0.1164802,0.128714 -0.2567782,0.16487 -0.62425269,0.160716 -0.6054645,-0.0069 -0.8140065,-0.09417 -0.9766829,-0.408763 -0.1384618,-0.267751 -0.065813,-0.652619 0.1488281,-0.789099 0.061225,-0.03893 0.1415362,-0.06282 0.2330609,-0.07234 z"
+       style="fill:#000000;stroke-width:0.0846667"
+       id="path19153"
+       sodipodi:nodetypes="csccccccccccccsccc" />
+  </g>
+</svg>

@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Rubik', sans-serif;
+}
+body {
+  background-color: black;
+  font-size: 1.3em;
+}
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 100vh;
+}
+.wrapper .main {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100vw;
+  flex-grow: 1;
+  justify-content: center;
+  align-content: center;
+}
+.wrapper .main h1,
+.wrapper .main div {
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+  color: white;
+}
+.wrapper .footer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100vw;
+  color: white;
+  justify-content: center;
+  align-content: center;
+}
+.wrapper .footer div.socials {
+  width: 100%;
+  height: 32px;
+  flex-wrap: nowrap;
+  display: flex;
+  justify-content: center;
+}
+.wrapper .footer div.socials a {
+  margin: 0 5px;
+  display: block;
+  width: 32px;
+  height: 32px;
+}
+.wrapper .footer div.socials .twitter .bg,
+.wrapper .footer div.socials .inst .bg,
+.wrapper .footer div.socials .facebook .bg,
+.wrapper .footer div.socials .youtube .bg {
+  fill: #fff;
+  transition: fill 0.5s;
+}
+.wrapper .footer div.socials .twitter .mn,
+.wrapper .footer div.socials .inst .mn,
+.wrapper .footer div.socials .facebook .mn,
+.wrapper .footer div.socials .youtube .mn {
+  fill: #000;
+  transition: fill 0.5s;
+}
+.wrapper .footer div.socials a:hover .twitter .bg {
+  transition: fill 0.5s;
+  fill: #1d9bf0;
+}
+.wrapper .footer div.socials a:hover .twitter .mn {
+  transition: fill 0.5s;
+  fill: #fff;
+}
+.wrapper .footer div.socials a:hover .inst .bg {
+  transition: fill 0.5s;
+  fill: #c53185;
+}
+.wrapper .footer div.socials a:hover .inst .mn {
+  transition: fill 0.5s;
+  fill: #fff;
+}
+.wrapper .footer div.socials a:hover .youtube .bg {
+  transition: fill 0.5s;
+  fill: #f00;
+}
+.wrapper .footer div.socials a:hover .youtube .mn {
+  transition: fill 0.5s;
+  fill: #fff;
+}
+.wrapper .footer div.socials a:hover .facebook .bg {
+  transition: fill 0.5s;
+  fill: #1877f2;
+}
+.wrapper .footer div.socials a:hover .facebook .mn {
+  transition: fill 0.5s;
+  fill: #fff;
+}
+.game {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+.game .disabled {
+  fill: #adadad;
+}
+.game .chicken {
+  fill: #f00 !important;
+}
+.game .dark {
+  fill: #adadad;
+}
